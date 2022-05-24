@@ -1,0 +1,10 @@
+C:\Users\Apple\source\repos\GameShooter\GameShooter\bin\Debug\GameShooter.exe.config
+C:\Users\Apple\source\repos\GameShooter\GameShooter\bin\Debug\GameShooter.exe
+C:\Users\Apple\source\repos\GameShooter\GameShooter\bin\Debug\GameShooter.pdb
+C:\Users\Apple\source\repos\GameShooter\GameShooter\obj\Debug\GameShooter.csproj.AssemblyReference.cache
+C:\Users\Apple\source\repos\GameShooter\GameShooter\obj\Debug\GameShooter.Form1.resources
+C:\Users\Apple\source\repos\GameShooter\GameShooter\obj\Debug\GameShooter.Properties.Resources.resources
+C:\Users\Apple\source\repos\GameShooter\GameShooter\obj\Debug\GameShooter.csproj.GenerateResource.cache
+C:\Users\Apple\source\repos\GameShooter\GameShooter\obj\Debug\GameShooter.csproj.CoreCompileInputs.cache
+C:\Users\Apple\source\repos\GameShooter\GameShooter\obj\Debug\GameShooter.exe
+C:\Users\Apple\source\repos\GameShooter\GameShooter\obj\Debug\GameShooter.pdb
