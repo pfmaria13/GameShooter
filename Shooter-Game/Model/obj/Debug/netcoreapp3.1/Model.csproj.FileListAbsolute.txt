@@ -1,0 +1,16 @@
+C:\Users\Apple\source\repos\Shooter-Game\Model\bin\Debug\netcoreapp3.1\Model.exe
+C:\Users\Apple\source\repos\Shooter-Game\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+C:\Users\Apple\source\repos\Shooter-Game\Model\bin\Debug\netcoreapp3.1\Model.runtimeconfig.json
+C:\Users\Apple\source\repos\Shooter-Game\Model\bin\Debug\netcoreapp3.1\Model.runtimeconfig.dev.json
+C:\Users\Apple\source\repos\Shooter-Game\Model\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\Apple\source\repos\Shooter-Game\Model\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Apple\source\repos\Shooter-Game\Model\obj\Debug\netcoreapp3.1\Model.csproj.AssemblyReference.cache
+C:\Users\Apple\source\repos\Shooter-Game\Model\obj\Debug\netcoreapp3.1\Model.Model.resources
+C:\Users\Apple\source\repos\Shooter-Game\Model\obj\Debug\netcoreapp3.1\Model.csproj.GenerateResource.cache
+C:\Users\Apple\source\repos\Shooter-Game\Model\obj\Debug\netcoreapp3.1\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apple\source\repos\Shooter-Game\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+C:\Users\Apple\source\repos\Shooter-Game\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+C:\Users\Apple\source\repos\Shooter-Game\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+C:\Users\Apple\source\repos\Shooter-Game\Model\obj\Debug\netcoreapp3.1\Model.dll
+C:\Users\Apple\source\repos\Shooter-Game\Model\obj\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Apple\source\repos\Shooter-Game\Model\obj\Debug\netcoreapp3.1\Model.genruntimeconfig.cache
