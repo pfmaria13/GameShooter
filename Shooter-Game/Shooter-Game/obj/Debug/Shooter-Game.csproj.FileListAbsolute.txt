@@ -10,3 +10,5 @@ C:\Users\Apple\source\repos\Shooter-Game\Shooter-Game\obj\Debug\Shooter-Game.csp
 C:\Users\Apple\source\repos\Shooter-Game\Shooter-Game\obj\Debug\Shooter-Game.exe
 C:\Users\Apple\source\repos\Shooter-Game\Shooter-Game\obj\Debug\Shooter-Game.pdb
 C:\Users\Apple\source\repos\Shooter-Game\Shooter-Game\obj\Debug\Shooter_Game.Form1.resources
+C:\Users\Apple\Documents\GitHub\GameShooter\Shooter-Game\Shooter-Game\obj\Debug\Shooter-Game.exe
+C:\Users\Apple\Documents\GitHub\GameShooter\Shooter-Game\Shooter-Game\obj\Debug\Shooter-Game.pdb
